@@ -6,9 +6,8 @@
 [youtube]: https://www.youtube.com/channel/UCaDNkOocrMIU-oV0OVrM_jQ
 [linkedin]: https://www.linkedin.com/in/jonathantrans/
 
-## Software Developer Intern @ UC Davis
+## C.S. Undergraduate @ UC Davis
 Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. 
-- 🔭 C.S. Undergraduate @ UC Davis
 - 🔭 I am working on a dermatology/health platform and software "Icarus"
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
