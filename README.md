@@ -5,11 +5,6 @@ Jonathan Trans is a California-based software engineer who specializes in buildi
 He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science (B.S.) in Computer Science. His pronouns are he/him. 😊
 
 For more information, explore his personal website at https://jonathantrans.github.io/.
-              
-
-[![Personal Website](https://jonathantrans.github.io/)](https://jonathantrans.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
