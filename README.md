@@ -6,6 +6,9 @@ He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science
 
 For more information, explore his personal website at https://jonathantrans.github.io/.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jonathantrans" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathantrans?trk=profile-badge">Jonathan Trans</a></div>
+              
 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
