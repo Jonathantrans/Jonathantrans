@@ -1,5 +1,3 @@
-### Hi there! Welcome to Jonathan Trans Github Projects. 👋
-
 Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. Currently, he is a developer at UC Davis focused on building the Linear Algebra Laboratory course website for future students to use, working under Professor Ali A. Dad-del.
 
 He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science (B.S.) in Computer Science. His pronouns are he/him. 😊
@@ -20,7 +18,7 @@ He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science
 [linkedin]: https://www.linkedin.com/in/jonathantrans/
 
 
-### Hello World, I'm Anna  👋
+### Hi there! Welcome to Jonathan Trans Github Projects. 👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
