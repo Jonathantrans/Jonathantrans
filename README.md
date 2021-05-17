@@ -6,7 +6,7 @@
 [youtube]: https://www.youtube.com/channel/UCaDNkOocrMIU-oV0OVrM_jQ
 [linkedin]: https://www.linkedin.com/in/jonathantrans/
 
-## Jonathan Trans's Github! 👋
+## Jonathan Trans's Github Page! 👋
 Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. 
 - 💬 Let's get to know each other!
 - 👦 Pronouns: He/Him
