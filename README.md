@@ -18,7 +18,7 @@ He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science
 [linkedin]: https://www.linkedin.com/in/jonathantrans/
 
 
-### Hi there! Welcome to Jonathan Trans Github! 👋
+### Hello World! Welcome to Jonathan Trans Github! 👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
