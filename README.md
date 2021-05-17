@@ -1,4 +1,4 @@
-### Hello World! Welcome to Jonathan Trans Github! 👋
+### Hello World! 
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -6,7 +6,7 @@
 [youtube]: https://www.youtube.com/channel/UCaDNkOocrMIU-oV0OVrM_jQ
 [linkedin]: https://www.linkedin.com/in/jonathantrans/
 
-## C.S. Undergraduate @ UC Davis
+## Welcome to Jonathan Trans Github! 👋
 Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. 
 - 🔭 I am working on a dermatology/health platform and software "Icarus"
 - 💬 Ask me about ... Anything
