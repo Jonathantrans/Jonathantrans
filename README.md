@@ -2,12 +2,14 @@
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
+[website]: https://jonathantrans.github.io/
+[youtube]: https://www.youtube.com/channel/UCaDNkOocrMIU-oV0OVrM_jQ
+[linkedin]: https://www.linkedin.com/in/jonathantrans/
 
-## SDE at UC Davis!
-- Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. Currently, he is a developer at UC Davis focused on building the Linear Algebra Laboratory course website for future students to use, working under Professor Ali A. Dad-del.
+## CS Undergraduate at UC Davis
+Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. Currently, he is a developer at UC Davis focused on building the Linear Algebra Laboratory course website for future students to use, working under Professor Ali A. Dad-del.
 - 🔭 I am working on a dermatology/health platform and software "Icarus" which utilizes machine learning to detect skin cancer and acne, as well as the spread.
 - 👯 I’m looking to collaborate on open source
-- 👯 Attending UC Davis
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a bodybuilder and I love staying physically active!
@@ -33,9 +35,3 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-
-[website]: https://jonathantrans.github.io/
-[youtube]: https://www.youtube.com/channel/UCaDNkOocrMIU-oV0OVrM_jQ
-[linkedin]: https://www.linkedin.com/in/jonathantrans/
