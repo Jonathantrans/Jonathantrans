@@ -10,7 +10,7 @@
 Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. 
 - 💬 Let's get to know each other!
 - 👦 Pronouns: He/Him
-- 💪 Fun fact: Bodybuilder Alert!
+- 💪 Fun fact: He's a Bodybuilder!
 
 
 ### Connect with me:
