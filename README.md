@@ -8,8 +8,7 @@
 
 ## CS Undergraduate at UC Davis
 Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. Currently, he is a developer at UC Davis focused on building the Linear Algebra Laboratory course website for future students to use, working under Professor Ali A. Dad-del.
-- 🔭 I am working on a dermatology/health platform and software "Icarus" which utilizes machine learning to detect skin cancer and acne, as well as the spread.
-- 👯 I’m looking to collaborate on open source
+- 🔭 I am working on a dermatology/health platform and software "Icarus"
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a bodybuilder and I love staying physically active!
