@@ -4,8 +4,6 @@ Jonathan Trans is a California-based software engineer who specializes in buildi
 
 He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science (B.S.) in Computer Science. His pronouns are he/him. 😊
 
-For more information, explore his personal website at https://jonathantrans.github.io/.
-
 - 🔭 I am working on a dermatology/health platform and software "Icarus" which utilizes machine learning to detect skin cancer and acne, as well as the spread.
 - ⚡ Fun fact: I am a bodybuilder and I love staying physically active!
 
