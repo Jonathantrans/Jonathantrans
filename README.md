@@ -19,11 +19,9 @@ He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science
 
 ## SDE at UC Davis!
 - 🔭 I am working on a dermatology/health platform and software "Icarus" which utilizes machine learning to detect skin cancer and acne, as well as the spread.
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a bodybuilder and I love staying physically active!
 
 
