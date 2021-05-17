@@ -6,11 +6,9 @@ He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science
 
 For more information, explore his personal website at https://jonathantrans.github.io/.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I am working on a dermatology/health platform and software "Icarus" which utilizes machine learning to detect skin cancer and acne, as well as the spread.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I am a bodybuilder and I love staying physically active!
 
 ### Connect with me:
 
