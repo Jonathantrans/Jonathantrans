@@ -17,7 +17,7 @@ He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+## Software Developer Intern at UC Davis!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
