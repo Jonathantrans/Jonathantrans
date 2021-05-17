@@ -1,6 +1,6 @@
 ### Hello World! Welcome to ...
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2514208/screenshots/9457673/media/58c711b39633fec0fda2414c809fdf6f.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/nuit2.gif" width="600" height="400" />
 
 [website]: https://jonathantrans.github.io/
 [youtube]: https://www.youtube.com/channel/UCaDNkOocrMIU-oV0OVrM_jQ
