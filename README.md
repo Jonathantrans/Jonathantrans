@@ -7,7 +7,8 @@
 [linkedin]: https://www.linkedin.com/in/jonathantrans/
 
 ## CS Undergraduate at UC Davis
-Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. Currently, he is a developer at UC Davis focused on building the Linear Algebra Laboratory course website for future students to use, working under Professor Ali A. Dad-del.
+Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. 
+- 🔭 Software Developer Intern at UC Davis supervised under Professor Ali A. Dad-del.
 - 🔭 I am working on a dermatology/health platform and software "Icarus"
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
