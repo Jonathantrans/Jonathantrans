@@ -11,7 +11,7 @@ Jonathan Trans is a California-based software engineer who specializes in buildi
 - 💻 Currently working on dermatology/health platform and software "Icarus"
 - 💬 Ask me about ... Anything
 - 👦 Pronouns: He/Him
-- 💪 Fun fact: He is a bodybuilder!
+- 💪 Fun fact: Bodybuilder Alert!
 
 
 ### Connect with me:
