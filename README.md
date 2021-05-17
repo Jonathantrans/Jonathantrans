@@ -5,12 +5,6 @@ He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science
 - 🔭 I am working on a dermatology/health platform and software "Icarus" which utilizes machine learning to detect skin cancer and acne, as well as the spread.
 - ⚡ Fun fact: I am a bodybuilder and I love staying physically active!
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 [website]: https://jonathantrans.github.io/
@@ -33,8 +27,11 @@ He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
