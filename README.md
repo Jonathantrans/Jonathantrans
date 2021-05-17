@@ -7,7 +7,6 @@ He is currently an undergraduate at UC Davis, pursuing a Bachelor’s of Science
 For more information, explore his personal website at https://jonathantrans.github.io/.
 
 - 🔭 I am working on a dermatology/health platform and software "Icarus" which utilizes machine learning to detect skin cancer and acne, as well as the spread.
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a bodybuilder and I love staying physically active!
 
 ### Connect with me:
@@ -17,14 +16,6 @@ For more information, explore his personal website at https://jonathantrans.gith
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-### Languages and Tools:
-
-
-<br />
-<br />
-
----
 
 [website]: https://jonathantrans.github.io/
 [youtube]: https://www.youtube.com/channel/UCaDNkOocrMIU-oV0OVrM_jQ
