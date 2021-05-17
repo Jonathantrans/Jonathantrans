@@ -8,7 +8,7 @@
 
 ## Jonathan Trans's Github! 👋
 Jonathan Trans is a California-based software engineer who specializes in building (and occasionally designing) exceptional digital experiences. 
-- 💬 Ask me about ... Anything
+- 💬 Let's get to know each other!
 - 👦 Pronouns: He/Him
 - 💪 Fun fact: Bodybuilder Alert!
 
